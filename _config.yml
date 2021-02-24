@@ -1,0 +1,78 @@
+# Site
+name: 'صحيفة باعوص'
+description: 'صحيفة باعوص'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: ''
+email: ''
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    rami:
+      name:           Dr. Ba3os
+      site:           لا يوجد موقع الكتروني
+      avatar:         assets/images/av3.png
+      bio:            د. أبو البواعيص صحفي مغمور يريد ان ينتقد الخطئ في كل مكان في B.T.D 
+      email:          ايميل محظور
+      twitter:        تويتر محظور
+    hamza:
+      name:           Lord Balmier
+      site:           لا يوجد موقع الكتروني
+      avatar:         assets/images/av3.png
+      bio:            النائب البرلماني لدى B.T.D والعضو المؤسس لموقع صحيفة باعوص
+      email:          ايميل محظور
+      twitter:        تويتر محظور
+    mas:
+      name:           Mas
+      site:           لا يوجد موقع الكتروني
+      avatar:         assets/images/av3.png
+      bio:            الرئيس البرلماني الدستوري لدى B.T.D
+      email:          ايميل محظور
+      twitter:        تويتر محظور
+    yasser:
+      name:           Yaso
+      site:           لا يوجد موقع الكتروني
+      avatar:         assets/images/av3.png
+      bio:            خبير استراتيجي لدى الB.T.D
+      email:          ايميل محظور
+      twitter:        تويتر محظور
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: rami
+      avatar: assets/images/gentle.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

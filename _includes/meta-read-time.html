@@ -1,0 +1,9 @@
+<span class="reading-time">
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    قرائة في 1 دقيقة
+  {% else %}
+  قرائة في {{ words | divided_by:180 }} دقائق
+  {% endif %}
+</span>
+    
