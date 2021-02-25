@@ -5,6 +5,10 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
 
+.w-100{
+	border-radius: 10px 
+}
+
 .topfirstimage{
 	border-radius: 25px 25px 0px 0px !important;
 }
