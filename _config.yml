@@ -20,31 +20,31 @@ plugins:
   
 authors:
     rami:
-      name:           Dr. Ba3os
+      name:           رامي المارديني
       site:           لا يوجد موقع الكتروني
       avatar:         assets/images/rami.jpg
-      bio:            د. أبو البواعيص صحفي مغمور يريد ان ينتقد الخطئ في كل مكان في B.T.D 
+      bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
     hamza:
-      name:           Lord Balmier
+      name:           حمزة مرزوق
       site:           لا يوجد موقع الكتروني
       avatar:         assets/images/gentle.jpg
-      bio:            النائب البرلماني لدى B.T.D والعضو المؤسس لموقع صحيفة باعوص
+      bio:            طالب شعبة 203، مؤسس موقع صحيفة طلاب قريش وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
     mas:
-      name:           Mas
+      name:           محمد عبده
       site:           لا يوجد موقع الكتروني
       avatar:         assets/images/mas.jpg
-      bio:            الرئيس البرلماني الدستوري لدى B.T.D
+      bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
     yasser:
-      name:           Yaso
+      name:           ياسر السعيد
       site:           لا يوجد موقع الكتروني
       avatar:         assets/images/av3.png
-      bio:            خبير استراتيجي لدى B.T.D
+      bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
 
