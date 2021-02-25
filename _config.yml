@@ -70,7 +70,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 1
+paginate: 2
 
 
 
