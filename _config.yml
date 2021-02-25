@@ -1,7 +1,7 @@
 # Site
 name: 'صحيفة طلاب قريش'
 description: 'صحيفة طلاب قريش'
-logo: 'assets/images/logo.jpg'
+logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'ba3oos-ml'
