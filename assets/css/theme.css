@@ -6,7 +6,9 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap'); */
 
 .w-100{
-	border-radius: 10px 
+	border-radius: 10px;
+	height: auto !important;
+	width: 150px !important;
 }
 
 .topfirstimage{
