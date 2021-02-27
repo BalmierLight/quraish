@@ -3,7 +3,7 @@ layout: post
 title:  "أوراق عمل لمادة الفيزياء 2"
 author: hamza
 categories: [ منشور, مراجعة ]
-image: assets/images/announcement.jpg
+image: assets/images/rev.jpg
 comments: true
 tags: [featured]
 ---
