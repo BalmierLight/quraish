@@ -19,18 +19,25 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    rami:
-      name:           رامي المارديني
-      site:           لا يوجد موقع الكتروني
-      avatar:         assets/images/rami.jpg
-      bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
-      email:          ايميل محظور
-      twitter:        تويتر محظور
     hamza:
       name:           حمزة مرزوق
       site:           لا يوجد موقع الكتروني
       avatar:         assets/images/gentle.jpg
       bio:            طالب شعبة 203، مؤسس موقع صحيفة طلاب قريش وأحد الكُتّاب في موقع صحيفة طلاب قريش
+      email:          ايميل محظور
+      twitter:        تويتر محظور
+    abdul:
+      name:           عبدالإله الحايك
+      site:           لا يوجد موقع الكتروني
+      avatar:         assets/images/av3.png
+      bio:            طالب شعبة 202 وأحد الكُتّاب في موقع صحيفة طلاب قريش
+      email:          ايميل محظور
+      twitter:        تويتر محظور
+    rami:
+      name:           رامي المارديني
+      site:           لا يوجد موقع الكتروني
+      avatar:         assets/images/rami.jpg
+      bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
     mas:
