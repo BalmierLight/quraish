@@ -5,7 +5,7 @@ author: hamza
 categories: [ منشور, مراجعة ]
 image: assets/images/rev.jpg
 comments: true
-tags: [featured]
+tags: []
 ---
 
 ## بسم الله الرحمن الرحيم
