@@ -40,13 +40,13 @@ authors:
       bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
-    yasser:
-      name:           ياسر السعيد
-      site:           لا يوجد موقع الكتروني
-      avatar:         assets/images/av3.png
-      bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
-      email:          ايميل محظور
-      twitter:        تويتر محظور
+#     yasser:
+#       name:           ياسر السعيد
+#       site:           لا يوجد موقع الكتروني
+#       avatar:         assets/images/av3.png
+#       bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
+#       email:          ايميل محظور
+#       twitter:        تويتر محظور
 
 # Defaults
 defaults:
