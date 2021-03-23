@@ -49,4 +49,5 @@ tags: [featured]
 
 - في خطوة الثانية، قد تشغل برنامج vcredist_x86.exe ولكن تظهر لك المشكلة التالية
 ![trouble](/assets/images/trouble.PNG)
+<br>
 عندئذ، فقد اذهب الى الخطوة الثالثة
