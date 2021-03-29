@@ -21,21 +21,21 @@ plugins:
 authors:
     hamza:
       name:           حمزة مرزوق
-      site:           لا يوجد موقع الكتروني
+      site:           https://quraish.ga
       avatar:         assets/images/gentle.jpg
       bio:            طالب شعبة 203، مؤسس موقع صحيفة طلاب قريش وأحد الكُتّاب في الموقع
       email:          ايميل محظور
-      twitter:        تويتر محظور
+      twitter:        https://twitter.com/JustBalmier
     abdul:
       name:           عبدالإله الحايك
-      site:           لا يوجد موقع الكتروني
+      site:           https://quraish.ga
       avatar:         assets/images/abdul.jpeg
       bio:            طالب شعبة 202 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
       twitter:        تويتر محظور
     rami:
       name:           رامي المارديني
-      site:           لا يوجد موقع الكتروني
+      site:           https://quraish.ga
       avatar:         assets/images/rami.jpg
       bio:            طالب شعبة 204 وأحد الكُتّاب في موقع صحيفة طلاب قريش
       email:          ايميل محظور
